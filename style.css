@@ -25,7 +25,7 @@ nav>ul>li>a {
     padding: 20px 45px;
     font-size: large;
     text-decoration: none;
-    color: white;
+    color: red;
     background: rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     transition: all 0.5s;
