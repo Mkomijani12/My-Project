@@ -55,3 +55,18 @@ nav>ul>li>a:hover {
         padding: 20px 30px;
     }
 }
+/* Create section for paragraph*/
+#container {
+    width: 100%;
+    background: lightgray;
+}
+#container > h2{
+    text-align: center;
+    padding: 20px 0;
+}
+#container> p{
+    text-align: justify;
+    column-count: 3;
+    font-weight: 600;
+    line-height: 1cm;
+}
